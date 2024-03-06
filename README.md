@@ -122,11 +122,11 @@
 #### Redo the task #0 but by using Puppet:
 | Task | File |
 | ---- | ---- |
-| 0. Prepare your web servers | [SOON](./) |
-| 1. Compress before sending | [SOON](./) |
-| 2. Deploy archive! | [SOON](./) |
-| 3. Full deployment | [SOON](./) |
-| 4. Keep it clean! | [SOON](./) |
-| 5. Puppet for setup | [SOON](./) |
+| 0. Prepare your web servers | [0-setup_web_static.sh](./) |
+| 1. Compress before sending | [1-pack_web_static.py](./) |
+| 2. Deploy archive! | [2-do_deploy_web_static.py](./) |
+| 3. Full deployment | [3-deploy_web_static.py](./) |
+| 4. Keep it clean! | [100-clean_web_static.py](./) |
+| 5. Puppet for setup | [101-setup_web_static.pp](./) |
 
 ## Author's: Mekonen Abera
